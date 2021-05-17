@@ -1,1 +1,2 @@
-# selfDesignedDraft
+# synchronousBallMovement
+Ball moving synchronously
